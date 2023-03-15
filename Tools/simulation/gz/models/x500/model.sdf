@@ -593,5 +593,8 @@
       <motorType>velocity</motorType>
     </plugin>
 
+    <plugin filename="libSampleSystem.so" name="sample_system::SampleSystem">
+    </plugin>
+
   </model>
 </sdf>
